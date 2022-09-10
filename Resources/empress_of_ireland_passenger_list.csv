@@ -1,0 +1,758 @@
+Name,Survived,Pclass,age,sex
+"Kendall, Henry George",1,crew,,
+"Steede, Mansfield Richard",0,crew,,
+"Jones, Edward John",1,crew,,
+"Williams, Roger",0,crew,,
+"File, Osmond",1,crew,,
+"Moore, Charles Alwyn",0,crew,,
+"Tunstall, Bertram",0,crew,,
+"Ferguson, Ronalds",1,crew,,
+"Bamford, Edward",1,crew,,
+"Peterson, William Victor",0,crew,,
+"Taylor, Walter",0,crew,,
+"Sprague, Thomas William",1,crew,,
+Radley Alexander Christie,1,crew,,
+"Thompson, Gerard Joseph",0,crew,,
+"Saunders, Robert",1,crew,,
+"Preston, John Edward",0,crew,,
+"Galway, James Francis ",1,crew,,
+"Gitcher, James Duncan",0,crew,,
+"Murphy, John",1,crew,,
+Sharplesm William Henry,0,crew,,
+"Williams, William",0,crew,,
+"Bruin, Thomas",1,crew,,
+"Carroll, John",1,crew,,
+"Clarke, J.",1,crew,,
+"Corrigan, Thomas",0,crew,,
+"Crayton, Robert",0,crew,,
+"Dennehy, Edward",1,crew,,
+"Dennis, Thomas",1,crew,,
+"Downey, Thomas Shawn",1,crew,,
+"Evans, Albert L.",1,crew,,
+"Evans, John",1,crew,,
+"Fitzpatrick, John",1,crew,,
+"Flagel, J.",0,crew,,
+"Harford, N.",0,crew,,
+"Hudson, John Henry Couch",1,crew,,
+"Jeffries, Joseph F.",1,crew,,
+"Land, Benjamin",1,crew,,
+"Leonard, Thomas",0,crew,,
+"Lyons, William Henry",0,crew,,
+"Maguire, John",1,crew,,
+"McCoy, John William",1,crew,,
+"McDougal, Duncan",1,crew,,
+"McEwan, John",1,crew,,
+"Morn, James",1,crew,,
+"O'Sullivan, James",0,crew,,
+"Riley, John",0,crew,,
+"Simms, John",1,crew,,
+"Bent, James",0,crew,,
+"Brown, William",1,crew,,
+"Disley, John",1,crew,,
+"Fawcett, William Wright",1,crew,,
+"Fitzgerald, H.",1,crew,,
+"Gratwick, Thomas William",1,crew,,
+"Jones, Daniel Henry",1,crew,,
+"Learmouth, George Seaton",0,crew,,
+"Leonard, Mark",0,crew,,
+"Price, John Henry",1,crew,,
+"Bell, Joseph Robert",0,crew,,
+"Gallagher, William",0,crew,,
+"Sampson, William",1,crew,,
+"Jones, John Machenzie",0,crew,,
+"Hampton, William Joseph",1,crew,,
+"Brennan, Robert Henry",1,crew,,
+"Liddell, Robert",1,crew,,
+"O' Donovan, George Stephen",1,crew,,
+"McOnie, George Randolph",1,crew,,
+"Gillespie, Robert Walls",0,crew,,
+"McDonald, Charles Keven",1,crew,,
+"McEwan, James",0,crew,,
+"Williamson, Percy Robert",0,crew,,
+"Smith, Alfred R.",1,crew,,
+"White, John Bell",0,crew,,
+"Johnston, John Alexander Beddows",1,crew,,
+"Caley, Frederick John",0,crew,,
+"Swan, John Henry",1,crew,,
+"Grant, John",1,crew,,
+"Duckworth, William Barrett D.",1,crew,,
+"Connor, James",1,crew,,
+"Davidson, George",1,crew,,
+"Connor, John",1,crew,,
+"D'Arcy, Patrick",1,crew,,
+"Duggan, Patrick",1,crew,,
+"Healey, James",0,crew,,
+"Holden, Samuel",1,crew,,
+"Maher, Patrick",1,crew,,
+"McAdam, William",1,crew,,
+"McAleavey, Michael",1,crew,,
+"Megson, John",1,crew,,
+"Nelson, Cornelius",1,crew,,
+"O'Donnell, Daniel",1,crew,,
+"Reardon, Daniel",1,crew,,
+"Ross, William",0,crew,,
+"Sheridan, Robert",1,crew,,
+"Starr, Edmund",0,crew,,
+"Stephens, John",1,crew,,
+"Summers, John",0,crew,,
+"Williams, William",1,crew,,
+"Malone, Peter James",1,crew,,
+"Malone, Bernard",1,crew,,
+"McGuinness, Muchael",0,crew,,
+"McGuinness, Thomas",1,crew,,
+"Whitty, John",1,crew,,
+"Bailey, George",1,crew,,
+"Barber, John",0,crew,,
+"Boyd, Edward",0,crew,,
+"Clarke, William",1,crew,,
+"Crowther, John George",0,crew,,
+"Davies, Peter",1,crew,,
+"Davis, John",1,crew,,
+"Duffy, John",1,crew,,
+"Flood, Thomas",1,crew,,
+"Hepburn, John David",0,crew,,
+"Hutchinson, George",1,crew,,
+"Jackson, Charles E.",1,crew,,
+"Jump, Joseph",0,crew,,
+"Maguire, John Thomas",1,crew,,
+"McCabe, James",0,crew,,
+"McGowan, James",1,crew,,
+"McCready, Thomas",1,crew,,
+"McGuinness, Robert M.",0,crew,,
+"McMahon, Peter",1,crew,,
+"McManus, John Henry",0,crew,,
+"O'Neill, Nucholas",0,crew,,
+"O'Toole, Patrick",1,crew,,
+"Regan, Michael",0,crew,,
+"Reid, H.",0,crew,,
+"Reid, James",0,crew,,
+"Rockford, Michael",1,crew,,
+"Rowland, Joseph Samuel",1,crew,,
+"Ryan, John",1,crew,,
+"Shannon, Edward",0,crew,,
+"Smythe, James",1,crew,,
+"Stephens, John",1,crew,,
+"Tumilty, Bernard James",0,crew,,
+"Walsen, David Heron",0,crew,,
+"Whitty, James",1,crew,,
+"Worthington, Patrick Joseph",0,crew,,
+"Campbell, John Mercer",1,crew,,
+"Lally, James",0,crew,,
+"Rice, Edward",1,crew,,
+"Sommers, Matthew",1,crew,,
+"Fitchett, Edward",0,crew,,
+"Fournier, Henry",0,crew,,
+"Anderson, William James",0,crew,,
+"Brown, Patrick",1,crew,,
+"Campbell, Michael",1,crew,,
+"Clarke, John Joseph",1,crew,,
+"Cody, Muchael",0,crew,,
+"Davis, John",1,crew,,
+"Deery, John",0,crew,,
+"Dolan, Paul",1,crew,,
+"Foster, Ernest",1,crew,,
+"Grant, Edward",0,crew,,
+"Houghton, J. or Thomas",1,crew,,
+"Jump, John Thomas",0,crew,,
+"Kane, Thomas",0,crew,,
+"Keegan, John",1,crew,,
+"King, John",1,crew,,
+"Maguire, Joseph",1,crew,,
+"Matthews, John",1,crew,,
+"McBride, William Frederick",0,crew,,
+"McCabe, Richard",1,crew,,
+"McCabe, Thomas",1,crew,,
+"McEnroe, Edward",0,crew,,
+"McGuinness, John",1,crew,,
+"Mitchell, James",1,crew,,
+"Mulvaney, William",0,crew,,
+"Murphy, William Bristow",1,crew,,
+"Murray, Peter",1,crew,,
+"O'Connell, Daniel",0,crew,,
+"O'Toole, James Patrick",1,crew,,
+"Quinn, John",1,crew,,
+"Quinn, William",1,crew,,
+"Reid, James",0,crew,,
+"Robinson, William",1,crew,,
+"Smith, James",1,crew,,
+"Wilson, John",1,crew,,
+"Donaldson, John",1,crew,,
+"Murden, Reubem Joseph",0,crew,,
+"Morgan, John",1,crew,,
+"Ryan, Thomas",1,crew,,
+"Welsh, Thomas",0,crew,,
+"Cottle, Samuel",1,crew,,
+"Dunn, John",1,crew,,
+"Hayes, Edward",1,crew,,
+"Kirwin, James",0,crew,,
+"Mountain, Thomas",1,crew,,
+"Neale, Henry",1,crew,,
+"Whie, Henry",1,crew,,
+"Wilson, James",1,crew,,
+"McDonald, Alexander Betteley",0,crew,,
+"Hayes, Ernest",1,crew,,
+"Wakeford, Charles",1,crew,,
+"Cox, Samuel Allen",0,crew,,
+"Rankin, Alexander Carmichael",0,crew,,
+"Hamilton, Frank William",0,crew,,
+"Grant, Dr. James Frederic",1,crew,,
+"Gaade, Augustus William",1,crew,,
+"Craik, Alecander Christopher",0,crew,,
+"Wildman, James Alison",0,crew,,
+"Burns, Charles",1,crew,,
+"Hudson, William Daniel",0,crew,,
+"Davies, John",1,crew,,
+"Jones, Henry Andrew",0,crew,,
+"Williams, Arthur Clement",1,crew,,
+"Chadwick, John Arthur",1,crew,,
+"Cheetham, John Mackintosh",0,crew,,
+"Cope, Hecotr Allan",0,crew,,
+"Delaney, Austin",0,crew,,
+"Fayle, Robert Russell",1,crew,,
+"Gee, Percy",1,crew,,
+"Gray, Arthur",1,crew,,
+"Gray, William Whitla",1,crew,,
+"Hadfield, William james",0,crew,,
+"Hopwood, William",0,crew,,
+"Hughes, William Henry",1,crew,,
+"Hughes, William Lawrence",1,crew,,
+"Jacques, Henry",1,crew,,
+"Jones, Clark",1,crew,,
+"Lawrie, James",0,crew,,
+"Lennon, George",0,crew,,
+"Manderson, Walter George",0,crew,,
+"McWilliam, Robert Bowen",1,crew,,
+"Metcalfe, George Joshua",0,crew,,
+"Myers, John James",0,crew,,
+"Newham, Henry",0,crew,,
+"Orford, George Leonard",0,crew,,
+"Parkinson, Charles Richard",1,crew,,
+"Pinner, Charles",1,crew,,
+"Price, Thomas",1,crew,,
+"Rowen, William",1,crew,,
+"Smith, Henry 'Harry'",0,crew,,
+"Smith, Joseph",1,crew,,
+"Smith, Charles Hopley",1,crew,,
+"Mellor, Herbert James",1,crew,,
+"Durkin, John",0,crew,,
+"Gerrard, Thomas",0,crew,,
+"Ainge, Edward",0,crew,,
+"Holt, Robert Armor",1,crew,,
+"Braine, Edward william",0,crew,,
+"Burrows, Thomas",1,crew,,
+"Derbyshire, Anthony Muir",0,crew,,
+"Hughes, Hugh",1,crew,,
+"Jones, Harold",1,crew,,
+"Murtagh, Matthew",1,crew,,
+"Nugent, William James Christopher",1,crew,,
+"Smith, Walter Beaumont",0,crew,,
+"Gill, Nathaniel",1,crew,,
+"Coombs, Charles William",1,crew,,
+"Cope, John",1,crew,,
+"McCoy, R. L.",0,crew,,
+"Prince, William",1,crew,,
+"Morl, William",1,crew,,
+"Powell, Leonard Armos George",1,crew,,
+"Lightfoot, George",0,crew,,
+"Baker, Stanley James",1,crew,,
+"Hamilton, James Alfred",0,crew,,
+"Jones, Percy Reginald",0,crew,,
+"Murtagh, William Joseph",0,crew,,
+"Spencer, Charles Herbert",1,crew,,
+"Clasber, Rudolph C.",1,crew,,
+"Ratcliffe, Jack",0,crew,,
+"Chance, William George",0,crew,,
+"Roberts, James",0,crew,,
+"Hird, William",1,crew,,
+"Cochrane, Andrew Leslie",0,crew,,
+"Highfield, William Duncan Cameron",0,crew,,
+"Duggan, John",1,crew,,
+"Jones, Miriam (Roberts)",0,crew,,
+"Jones, Ellen Eliza (Birch)",0,crew,,
+"Riddell, Alice",0,crew,,
+"Page, Clarrie May",0,crew,,
+"William, Thomas S.",1,crew,,
+"Richard, Sidney Edward",0,crew,,
+"Brown, John",1,crew,,
+"Challis, Montague Edwards",1,crew,,
+"Cure, Albert James (Jackson)",1,crew,,
+"Dawson, Edward",0,crew,,
+"Flinn, George Fitzroy",1,crew,,
+"Herbert, William",0,crew,,
+"Jones, Harold",0,crew,,
+"Jones, Owen",1,crew,,
+"Metcalfe, Thomas",1,crew,,
+"Neilson, George",0,crew,,
+"Owen, William Salisbury",1,crew,,
+"Parkinson, Frank George",0,crew,,
+"Pelton, Benjamin David J.",0,crew,,
+"Pritchard, Oliver",1,crew,,
+"Prowse, James Bebbington",1,crew,,
+"Reich, Joseph Alexander M.",0,crew,,
+"Roberts, William",1,crew,,
+"Rushton, Joseph Albert",0,crew,,
+"Shannon, Francis Joseph",1,crew,,
+"Smith, Albert E.",1,crew,,
+"Smith, Harry K.",1,crew,,
+"Vivian, Bertie Adams",0,crew,,
+"Wilson, Frank",0,crew,,
+"Tunstall, Harold",0,crew,,
+"Terry, John",0,crew,,
+"Wright, Alfred",0,crew,,
+"Singer, Joseph Edward (Shortsinger)",0,crew,,
+"Trainor, Nucholas",0,crew,,
+"Perry, Harold",0,crew,,
+"Willis, George Oswald",0,crew,,
+"Jones, Henry Andrew",0,crew,,
+"Fisher, Samuel Charles",0,crew,,
+"Absolon, Victor",1,crew,,
+"Byrne, John",1,crew,,
+"Cooper, Walter",0,crew,,
+"Crabb, Joseph",0,crew,,
+"Dixon, Harold",0,crew,,
+"Gill, James Philip",0,crew,,
+"Harold, William",0,crew,,
+"Harrison, Frank",1,crew,,
+"Jacob, Alfred Henry",0,crew,,
+"McDonald, Louis Adam",1,crew,,
+"Mitchell, Robert",0,crew,,
+"Muir, Charles William",0,crew,,
+"Walker, Thomas Lyle",0,crew,,
+"Parry, D.",1,crew,,
+"Passmore, Charles Joseph",0,crew,,
+"Williams, Richard",1,crew,,
+"Pearson, Sophia Jane (Varley)",0,crew,,
+"Stratton, Lucilla (Kennerley)",0,crew,,
+"Negus, Matilda (Ibbotson)",0,crew,,
+"Munro, William Anderson",0,crew,,
+"Copplin, George",1,crew,,
+"Mohring, Guy",0,crew,,
+"Lewis, Charles",0,crew,,
+"Robertson, John",1,crew,,
+"Dehnel, Charles Henry",0,crew,,
+"Owen, Robert",0,crew,,
+"Faulkner, Reginald",0,crew,,
+"Thomson, Archibald",1,crew,,
+"Gregory, Frederick",0,crew,,
+"Jones, John Jameson",0,crew,,
+"Thomas, William",0,crew,,
+"Fitzpatrick, Alexander",0,crew,,
+"Myers, Frank",0,crew,,
+"Pritchard, john",1,crew,,
+"Dumbell, Thomas Baker",1,crew,,
+"Haigh, Samuel Ernest",1,crew,,
+"McSherry, James",1,crew,,
+"Morland, Harold Reginald",1,crew,,
+"Williams, Gwilym Caradoc",0,crew,,
+"Lewis, Henry",0,crew,,
+"Williams, Joseph",1,crew,,
+"Grieves, George",1,crew,,
+"Donegan, James",1,crew,,
+"Clare, William",0,crew,,
+"Snowden, John Robert",0,crew,,
+"Dixon, Arthur Henry",1,crew,,
+"McGrath, John",0,crew,,
+"Hayes, Joseph Arthur",1,crew,,
+"Gibson, John Victor",1,crew,,
+"Madden, Francis John",0,crew,,
+"Clague, robert Henry",1,crew,,
+"Fereday, Arthur William",1,crew,,
+"Gale, Thomas John",0,crew,,
+Phenna Frederick',0,crew,,
+"Hunt, Thomas William Dean",0,crew,,
+"Cooke, Thomas",1,crew,,
+"Canepa, William Lazarus",1,crew,,
+"Baker, Thomas Henry",0,crew,,
+"Muphy, Jack",0,crew,,
+"Pitts, William Henry",1,crew,,
+"Crellin, Robert William",0,crew,,
+"Skerritt, Leonard Paul",0,crew,,
+"Green, Frederick George",1,crew,,
+"Gavigan, Bernard",0,crew,,
+"Hobson, Sydney Francis",1,crew,,
+"Hollies, Harriet Ellen (Coombs)",1,crew,,
+"Dinwoodie, Agnes Etherl",0,crew,,
+"Leders, Elizaberth (Turnbull)",0,crew,,
+"Norman, Frank Samuel",1,crew,,
+"Furness, John William",0,crew,,
+"Baxter, George R.",0,crew,,
+"Hope-Childs, Harold Bertram",1,crew,,
+"Pemberton, Alber Joseph T.",1,crew,,
+"Matthew, John Edward",1,crew,,
+"Glover, Thomas Henry",0,crew,,
+"Lee, Sydney",1,crew,,
+"Turner, Joseph",1,crew,,
+"Harrison, Frank",0,crew,,
+"Pierce, Augustus",0,crew,,
+"Ventre, Joseph",1,crew,,
+"Simon, Albert Henry",1,crew,,
+"Pritchard, Ernest Norman",0,crew,,
+"Clandon, Henry C.",1,crew,,
+"Knill, Arthur",1,crew,,
+"Sharkey, Martin",1,crew,,
+"Johnson, Harold",0,crew,,
+"Gardner, William",0,crew,,
+"Wynne, Edward Thomas",1,crew,,
+"McAleavey, Patrick",1,crew,,
+"Bray, William Edward",0,crew,,
+"Haran, Patrick",1,crew,,
+"Lewis, John",1,crew,,
+"Lappin, William Henry",0,crew,,
+"Cunningham, James J.",1,crew,,
+"Williams, David",1,crew,,
+"Johnson, James",0,crew,,
+"Leary, Charles",0,crew,,
+"Swinton, Alexander (John Black)",0,crew,,
+"Rohr, Arnold",1,crew,,
+"Braithwaite, Isaac",1,crew,,
+"Elliott, Alfred Douglass",1,crew,,
+"Shaw, Henry Edward",1,crew,,
+"Douglas, Thomas",1,crew,,
+"Smith, Thomas John",1,crew,,
+"McDonnell, Muchael Joseph",1,crew,,
+"Knight, Robert",1,crew,,
+"Dawson, Alfred",1,crew,,
+"Paterson, John",1,crew,,
+"Bishop, Thomas",1,crew,,
+"Corfe, John Eustace",0,crew,,
+"Madden, Bertha Emma (Brown)",0,crew,,
+"Abbott, Mr. Frank Ernest",1,1,41,male
+"Abercrombie, John Robertson",1,1,25,male
+"Adie, Percy James",1,1,36,male
+"Adie, Marion",1,1,33,female
+"Anderson, Albert Bruce",0,1,43,male
+"Averdieck, Percy Clifford",0,1,22,male
+"Barlow, Alfred Ernest Albert",0,1,52,male
+"Barlow, Fanny Elizabetth",0,1,50,female
+"Bennett, Ella Mary",0,1,49,female
+"Bloomfield, Robert William Read",0,1,52,male
+"Bloomfield, Isabella Louisa",0,1,46,female
+"Bloomfiedl, Hilda isabel Read",0,1,23,female
+"Bowes-Lyon, Charles Lindsay Claud",1,1,28,male
+"Brandon, Vernon Gething",0,1,31,male
+"Burrows, Alfred John",1,1,43,male
+"Burt, Clayton Ray",1,1,38,male
+"Cash, Johm Hardwood",1,1,50,male
+"Cash, Mary Kate",1,1,52,female
+"Cay, Catherine Beatrice",0,1,38,female
+"Cayley, John Joeseph",0,1,43,male
+"Clarke, Charles Robert",1,1,41,male
+"Cox-Edwards, Joseph Francis",0,1,50,male
+"Crathern, Waneta",0,1,35,female
+"Cullen, Maude",0,1,32,female
+"Cullen, Isobel Maud",0,1,6,female
+"Cullen, Albert Edward",0,1,2,male
+"Blythe, Jennie P.",1,1,,female
+"Cunningham, Robert Alexander",1,1,25,male
+"Darling, Murton Daniel Addison",1,1,28,male
+"Dickson, Peter",0,1,33,male
+"Duncan, James Fergus",1,1,41,male
+"Dunlevy, Grace",0,1,41,female
+"Fenton, Walter",1,1,28,male
+"Gaunt, Doris Winifred",1,1,18,female
+"Gallagher, Charlotte Harman",0,1,46,female
+"Gallagher, Cedric Aubrey Wools",1,1,19,male
+"Godson, Frederick Philip",1,1,26,male
+"Goldthorpe, Charles",0,1,43,male
+"Gosselin, Louis Aldei",1,1,44,male
+"Graham, Walter Douglas",0,1,55,male
+"Graham, Elizabeth",0,1,46,female
+"Hailey, Elizabeth",0,1,61,female
+"Henderson, George William Simpson",1,1,40,male
+"Hirst, Arthur",1,1,39,male
+"Herxheimer, Walter Salomen",0,1,36,male
+"Halloway, Charlotte Elizabeth",0,1,57,female
+"Howes, Frank William",0,1,53,male
+"Hyamson, Lionel Alexander",1,1,29,male
+"Irving, Laurence Sydney Brodribb",0,1,42,male
+"Irving, Mabel Lucy",0,1,42,female
+"Haggerston, Mabel Hilda",0,1,27,female
+"Johnston, David",0,1,37,male
+"Kent, John Lionel",1,1,41,male
+"Kohl, Grace Margaret Fairbanks",1,1,19,female
+"Lee, Alise Holland",1,1,23,female
+"Lindsay, Murdoch Alexander",0,1,32,male
+"Lyman, Herbert Henry",0,1,59,male
+"Lyman, Florence Holwell",0,1,36,female
+"Maginnis, Alexander Gordon",0,1,52,male
+"Malloch, Charles",1,1,38,male
+"Marks, Gabriel Jacob",0,1,42,male
+"Marks, Marrion",0,1,34,female
+"Miller, Catherine",0,1,34,female
+"Mullins, Albert Edward",0,1,42,male
+"Mullins, Kate Emily",1,1,38,female
+"Mullins, Ellen",0,1,9,female
+"O'Hara, Henry Robert",0,1,48,male
+"O'Hara, Laura May",0,1,44,female
+"O'Hara, Josephine Helen",0,1,10,female
+"Palmer, Wallace Leonard",0,1,28,male
+"Palmer, Ethel Courney",0,1,26,female
+"Paton, Ethel Sabina",1,1,39,female
+"Price, Hugh Wynne",0,1,56,male
+"Rutherford, Frederick James",0,1,45,male
+"Seton-Karr, Henry",0,1,61,male
+"Seybold, Edward",1,1,64,male
+"Seybold, Susannah",0,1,64,female
+"Smart, George Bogue",1,1,50,male
+"Stork, Mary Louisa",0,1,55,female
+"Taylor, John Thomas",0,1,48,male
+"Taylor, Dorothy Maud",0,1,20,female
+"Taylor, Helen Marjorie",0,1,18,female
+"Townshend, Tiria Vere Ferrers",1,1,17,female
+"Tylee, Charles David",0,1,67,male
+"Tylee, Martha",0,1,63,female
+"Wakeford, Alfred Joseph",1,1,50,male
+"Wallett, Joseph",1,1,33,male
+"Adridge, Ernest William",0,2,30,male
+"Archer, Tracey Harley",1,2,33,male
+"Archer, Ruth Mary",0,2,33,female
+"Archer, Alfred Cecil",0,2,2,male
+"Assafrey, Alma Fedora",0,2,26,female
+"Atkin, Maud",0,2,24,female
+"Attwell, George Ernest S.",1,2,42,male
+"Attwell, Hattie Eva ",1,2,44,female
+"Axten, Dorothea",0,2,35,female
+"Lionel, Axten",0,2,3,male
+"Bach, Mr. Reinholdt",0,2,78,male
+"Bach, Miiss. Edith Christina",1,2,40,female
+"Bales, Miss. Edith",1,2,21,female
+"Barbour, Mrs. Thomas William (Sabena Hicks)",0,2,39,female
+"Barbour, Miss. Florence Jessie",1,2,9,female
+"Barbour, Miss. Evelyn Beatrice",0,2,3,female
+"Barrie, Mr. William Simposon",0,2,29,male
+"Bawden, Miss. Elizabeth",0,2,31,female
+"Bawden, Miss. Florence Annie",0,2,24,female
+"Baxter, Miss. Annie May",0,2,13,female
+"Beale, Mr. Edward",0,2,31,male
+"Beauchamp, Mrs. Otto L. (Ruth Foster)",0,2,19,female
+"Beckstead, SA Adjt. Nettie Elizabeth",0,2,42,female
+"Berry, Miss Ethel de la Tour",0,2,20,female
+"Bigland, SA Lt. Joseph Stanley",0,2,22,male
+"Birkett, Mr. Henry James",0,2,22,male
+"Bishop, Mr. Thomas George Tetley",0,2,17,male
+"Black, Mr. John Wilson",1,2,39,male
+"Black, Mrs. John W. (Rosena Leitch)",1,2,33,female
+"Blackhurst, Mrs. Frederick (Ada Ratcliff)",0,2,45,female
+"Bonthrone, Mr. Alexander",0,2,21,male
+"Bonynge, SA Eensign James George Victor",0,2,35,male
+"Boynton-Lee, Mrs. Griffith (Fanny Elisabeth Biggs)",0,2,40,female
+"Brooks, Mr. Frank Percy",1,2,30,male
+"Brown, Miss Alice",0,2,,female
+"Brown, Mr. Overend",0,2,26,male
+"Buhler, Mr. Costa",0,2,55,male
+"Bulpitt, Mr. Reginald George",0,2,24,male
+"Burgess, Mrs. William Miller (Susan Robertson)",0,2,60,female
+"Butler, Miss. Rose",0,2,,female
+"Byrne, Mr. Edward",1,2,59,male
+"Byrne, Mrs. Edward (Eliza Ann Bickford)",0,2,60,female
+"Byrne, Miss. Selina Gertrude",0,2,20,female
+"Caughey, Mr. Albert Edward",0,2,36,male
+"Caughey, Mrs. Albert E. (Helen Hughes)",0,2,34,female
+"Chignell, Mrs. William Henry (Eliza Leys)",0,2,70,female
+"Clarke, Mrs. Willie (Lavinia Simpson)",0,2,34,female
+"Cole, Mrs. Albert  (Annie Armitage)",0,2,42,female
+"Cook, Mrs. George E. (Annie Emma Jane Rampling)",1,2,43,female
+"Court, Miss. Emily Florence",1,2,33,female
+"Creighton, SA Major David Law",0,2,50,male
+"Creighton, Mrs. David L. (Bertha Jane Dixon)",0,2,42,female
+"Crellin, Mr. Robert William",1,2,35,male
+"Dale, Mrs. John (Mary Parker)",0,2,26,female
+"Dale, Miss",0,2,1.83,female
+"Dandy, Mr. James Ferguson",1,2,47,male
+"Dargue, Mrs. Joseph (Annie Isabella Barrass)",0,2,43,female
+"Davidson, Mr. Gordon Charles",1,2,29,male
+"Davies, Mr. Thomas William",1,2,26,male
+"Davies, Mrs. T. William (Eliza Ethel Gough)",0,2,25,female
+"Davison, Mrs. Charles Oliver (Daisy May Barling)",1,2,32,female
+Davison Miss. Dorothy Ada,1,2,1.5,female
+"Death, Mr. Arthur Henry",0,2,48,male
+"De Bow, SA Adj. Everett Stanley",0,2,34,male
+"De Bow, Mrs. Everett S. (Elizabeth Agnes McKim)",0,2,28,male
+"Doss, SA Capt. John Edward",0,2,28,male
+"Doss, Mrs. John E. (Violet Victoria Howson)",0,2,26,female
+"Dunn, Mrs. James Edward (Jane Elizabeth Elliott)",0,2,48,female
+"Eastes, Miss Frances Hannah",0,2,36,female
+"Edwards, SA Adjt. George",0,2,,male
+"Emslie, Mrs. Peter (Jane Christie)",0,2,56,female
+"Erzinger, Mr. Walter",1,2,25,male
+"Evans, Mr. Ernest Josua",0,2,31,male
+"Evans, Mrs. Ernest J. (Emma Willett)",0,2,26,female
+"Evans, Miss C.",0,2,0.83,female
+"Farr, Miss Kathleen Helen",0,2,8,female
+"Farr, Miss Annie Meggitt",0,2,6,female
+"Farr, Miss Dorothy",0,2,5,female
+"Farr, Miss Bessie",0,2,3,female
+"Felstead, SA Bandsman George Philip",0,2,38,male
+"Findlay, SA Major Hugh",0,2,40,male
+"Findlay, Mrs. Hugh (Isabella Ivison)",0,2,47,female
+"Fisher, Mrs. John (Margaret Lightfoot)",0,2,47,female
+"Fisher, Mr. Wilfred",0,2,23,male
+"Foard, Mr. Herbert Edward",0,2,43,male
+"Foord, SA Dandsman Alfred Ernest",0,2,33,male
+"Foord, Mrs. A. Ernest (Alice Ward)",0,2,32,female
+"Foord, Miss Alice Margaret",0,2,4,female
+"Freeman, Mr. Henry",1,2,49,male
+"Freeman, Mrs. Henry (Mary Massoth)",1,2,45,female
+"Goddard, Mr. John arthur",0,2,46,male
+"Grafton, Mrs. Henry John (Susannah Caroline Woodbridge)",0,1,78,female
+"Gray, Mrs. Charles James (Madeline Shirt)",0,2,34,female
+"Gray, Miss Mary Winifred",0,2,5,female
+"Gray, SA Bandsman Edwin Philip",0,2,25,male
+"Green, SA Adjt. Harry John Scantlebury",0,2,46,male
+"Green, Adjt. Mrs. Harry Green (Nellia Adams)",0,2,45,female
+"Green, Mr. Ernest Harry",1,2,22,male
+"Green, Miss. Jessie",0,2,21,female
+"Greenaway, Mr. Herbert Booth",1,2,23,male
+"Greenaway, Mr. Thomas Hartley",1,2,25,male
+"Greenaway, Mrs. Thomas H. (Margaret Ellen Dalzell)",1,2,29,female
+"Griffin, Mrs. William Harold (Grace Withnall)",0,2,28,female
+"Griffin, Miss Winniefred Pauline",0,2,0.5,female
+"Griggs, Mr. James",0,2,54,male
+"Griggs, Mrs. James (Pricilla White)",0,2,54,female
+"Groom, SA Capt. Charles Henry",0,2,27,male
+"Hakker, Mrs. John (Harriet)",0,2,26,female
+"Hakker, Miss. Judith",0,2,0.58,female
+"Halliday, Mr. Christopher",0,2,51,male
+"Hanagan, SA Adjt. Edward James",0,2,37,male
+"Hanagam, Mrs. Edward J. (Edith Emily Collishaw)",0,2,39,female
+"Hanagam, Miss Edith Grace",1,2,7,female
+"Hart, Mr. William",0,2,29,male
+"Hart, Mrs. William (Emma M Roach)",0,2,23,female
+"Hart, Miss Edith",0,2,4,female
+"Hart, Master William",0,2,1.5,male
+"Hayes, SA Staff Capt. Mary Emma",0,2,41,female
+"Heath, Mr. Hugh Lenter",0,2,28,male
+"Heath, Master Jack Russell",0,2,3,male
+"Hepburn, Mrs. Frank Hamilton (Mary Katherine Meridith)",0,2,37,female
+"Hepburn, Barbara Meredith",0,2,2.5,female
+"Hepburn, Master Owen Meredith",0,2,,male
+"Hoggan, Mrs. Robert (Rosinda Blakey)",0,2,24,female
+"Holcombe, Miss Florence Louisa Newton",0,2,37,female
+"Hope, Miss Chrissie Burgess",0,2,4,female
+"Horwood, SA Bandsman William",0,2,33,male
+"Howarth, Mr. William",0,2,,male
+"Howarth, Mrs. William (Nellie Byrne)",0,2,,female
+"Howarth, Master Melvin",0,2,5,male
+"Hudson, Mr. R. W.",0,2,,male
+"Humphreys, SA Bandsman William John",0,2,35,male
+"Hunt, Dr. Rensselear Wilkins",1,2,56,male
+"Hunt, Miss Elanor B. de Vere",0,2,53,female
+"Hunter, SA Brigadier John ",0,2,51,male
+"Hunter, Mrs. John (Jessie Charlotte Ogilvy Tulloch)",0,2,48,female
+"Hunter, Miss Grace",0,2,13,female
+"Hunter, Master John Howard",0,2,11,male
+"Johnson, Mr. James",1,2,28,male
+"Johnston, Mr. George A.",0,2,22,male
+"Jones, SA Ensign Miss Emily",0,2,,female
+"Jones, SA Bandsman Edward Thomas",0,2,24,male
+"Kavalesky, Mr. Ivan",0,2,,male
+"Keith, SA. Lt. Alfred Thomas",1,2,22,male
+"Knudson, SA Capt. Hannah Elizabeth",0,2,30,female
+"Kruse, Mr. Herman",1,2,48,male
+"Kruse, Miss Freda Josephine",1,2,20,female
+"Langley, Mr. John Wise",1,2,26,male
+"Langley, Miss Mary Anne",0,2,,female
+"Law, Mr. Ernest",0,2,37,male
+"Law, Mrs. Ernest (Margaret Haythornthawaite)",0,2,38,female
+"Law, Master Jack",0,2,8,male
+"Lennon, Mr. James Joseph",1,2,30,male
+"Longley, Mr. Leonard Hurlock",0,2,26,male
+"Longley, Mrs. Leonard H. (Gertrude Eva Day)",0,2,21,female
+"Longley, Miss Marion",0,2,1,female
+"Maidment, SA Col. Sydney Charles",0,2,45,male
+"Maidment, Mrs. Sydney C.  (Harriet Packham)",0,2,46,female
+"Malone, SA Bandsman Robert",0,2,28,male
+"Mardell, SA Ensign Oliver Pinnock",0,2,31,male
+"Matier, Mr. Alexander",0,2,34,male
+"McAlphine, Mr. A. L.",0,2,,male
+"McAmmond, SA Staff Capt. David Foster",1,2,45,male
+"McGrath, Capt. Matthew James",0,2,35,male
+"McIntyre, Mr. Kenneth A.",1,2,25,male
+Mr. John McQueen McLean,0,2,37,male
+"Meacher, SA Bandsman George",0,2,35,male
+"Measures, Mr. William Howard",0,2,19,male
+"Moir, Mrs. Charles (Euphemia Sander Prior)",0,2,33,female
+"Morgan, Miss Lilianm Else",0,2,21,female
+"Morgan, Mr. James Oswald",0,2,64,male
+"Morgan, Mr. William",0,2,20,male
+"Morris, SA Major Frank",1,2,39,male
+"Morris, SA Staff Capt. Arthur",0,2,33,male
+"Morris, Mrs. Arthur (Daisy Lillian Coombs)",0,2,29,female
+"Mounsey, Mrs. William (Fanny Sewell)",0,2,57,female
+"Myers, SA Capt. James Patterson",0,2,29,male
+"Neeve, SA Bandsman Ernest Edward",0,2,27,male
+"Newton, Miss. Jane",0,2,53,female
+"Noneley, Miss. Ann",0,2,34,female
+"Nuttall, Mrs. Tom (Christine McColl)",0,2,29,female
+"Nuttall, Master Ralph George",0,2,0.33,male
+"Nuttall, Master Tom",0,2,1,male
+"Oslender, Mr. Joseph",1,2,27,male
+"Pantling, Mrs. Isaac James (Sarah Ann Hurst)",0,2,30,female
+"Patrick, Mr. Julian",1,2,24,male
+"Pattendan, SA Ensign Bertram John",0,2,36,male
+"Patterson, Mr. John",0,2,32,male
+"Petterson, Mr. Robert Stuart",0,2,38,male
+"Perkins, SA Bandsman Richard Henry William",0,2,40,male
+"Perry, Mr. William Henry",0,2,,male
+"Peturson, Mr. Hannes",1,2,33,male
+"Peturson, Mrs. Hannes (Tilly Anna Chisholm)",1,2,27,female
+"Potter, SA Brig. William Scott",0,2,41,male
+"Potter, Master Willard",0,2,9,male
+"Potts, Mrs. Hugh (Margaret Heavey)",0,2,26,female
+"Price, Sa Adjt. Miss Hanna",0,2,,female
+"Priestley, Miss Alice",0,2,51,female
+"Priestley, Miss Martha",0,2,50,female
+"Prior, Mrs. George Williaam (Edith Mary A Auger)",0,2,33,female
+"Pugmire, SA Ensign Ernest Ivison",1,2,26,male
+"Rees, SA Commissioner David Mathias",0,2,56,male
+"Rees, Mrs. David M. (Ruth Hepzibah Babington)",0,2,51,female
+"Rees, SA Capt. Ruth Maybury",0,2,25,female
+"Rees, SA Capt. Hardin Willfred",0,2,22,male
+"Rees, SA Corps Capt. Miss Annie Ina",0,2,15,female
+"Richards, Mr. George Clement",0,2,72,male
+"Richards, Mrs. George C. (Sarah Ann Street)",0,2,70,female
+"Richardson, Mr. William John",0,2,58,male
+"Richardson, Mrs. William J. (Mary Ann Griffin Ryles)",0,2,54,female
+"Riley, Mr. John",0,2,,male
+"Sampson, Mr. Samuel James ",0,2,33,male
+"Schongutt, Miss H. (josephine Pepi)",1,2,30,female
+"Scott, Mr. John M.",0,2,,male
+"Searle, Miss Eva Ruth",0,2,40,female
+"Shattock, Mr. William Noah",0,2,38,male
+"Simcoe, SA Major Mrs. Frederick (Annette Wallis)",0,2,51,female
+"Simmonds, Mr. Reginald Frank",1,2,27,male
+"Simmonds, Mrs. Reginald F. (Mary Mahony)",1,2,21,female
+"Smith, Miss Sarah, Elizabeth",0,2,15,female
+"Smith, Mrs. Lewis",0,2,E.A.,female
+"Soanes, Miss Alice Dorothy Amy",0,2,7,female
+"South, Mr. Harold Neville",0,2,29,male
+"South, Mrs. Harold N. (Elsie Marion Roberts)",0,2,23,female
+"Spooner, SA Capt. Rufus Thompson",1,2,26,male
+"Spoor, Mr. Robert",0,2,24,female
+"Spoor, Mrs. Robert (Margaret Calpin)",0,2,24,female
+"Stage, Miss Isabel",0,2,18,female
+"Stainer, Miss Edith Elizabeth",0,2,31,female
+"Stillman, Mr. Arthur Edward",0,2,25,male
+"Stitt, SA Adjt. Fitzwilliam",0,2,28,male
+"Stitt, Mrs. Fitzwilliam (Clara, Cofield)",0,2,28,female
+"Swindlehurst, Miss Sarah Agnes Ann",0,2,39,female
+"Taplin, Mrs. James Walter (Elizabeth Turner)",0,2,25,female
+"Turpin, Mr. Richard",1,2,,male
+"Veitch, Mr. B.",0,2,,male
+"Vincent, Mr. John",0,2,56,male
+"Vincent, Mrs. John (Clara Searson)",0,2,57,female
+"Wakefield, SA Bandsman William Henry",0,2,25,male
+"Walker, SA Brig. John Henry",0,2,44,male
+"Weinrauch, Mr. Bernard",1,2,37,male
+"Whatmore, SA Capt. Giovanni Guido",0,2,25,male
+"Whyte, Mrs. George Naismith (Mary Jane Know)",0,2,28,female
+"White, Miss. Amy Jane",0,2,0.83,female
+"Whitelaw, Mrs. John Henry (Isabella Joplin Henderson)",0,2,30,female
+"Willmott, Miss Eliza",1,2,28,female
+"Wilson, SA Capt. George",1,2,29,male
+"Wolter, Mrs. Charlie (Agnes Isabella Liston)",0,2,30,female
+"Wood, Miss. Mary",0,2,46,female
+"Wood, Mrs. Charles William (Fanny Simmonds)",0,2,50,female
+"Yates, Mr. Harry",0,2,21,male
+"Yates, Mrs. Harry (Mary A Taylor)",0,2,21,female
+"Zebulak, Mr. Josef",0,2,27,male
